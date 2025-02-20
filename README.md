@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyash Bhawsar</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
-<img align="right" alt="js_image" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMiZwyHt24y5Px26_tGE_KPLTX8qiNFo-KLegS6iB97jWWYxsJRQ_-sJzf5J7SfJSIPfk&usqp=CAU" /> 
+<img align="right" alt="js_image" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashb97&label=Profile%20views&color=0e75b6&style=flat" alt="suyashb97" /> </p>
 
