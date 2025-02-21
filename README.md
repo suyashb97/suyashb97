@@ -16,7 +16,7 @@
 <table>
  <tr>
     <td align="center" width="150">
-      <a href="&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;&#119;&#119;&#119;&#46;&#108;&#105;&#110;&#107;&#101;&#100;&#105;&#110;&#46;&#99;&#111;&#109;&#47;&#105;&#110;&#47;&#115;&#117;&#121;&#97;&#115;&#104;&#45;&#98;&#104;&#97;&#119;&#115;&#97;&#114;&#45;&#55;&#52;&#98;&#50;&#53;&#55;&#50;&#48;&#48;" target="_blank">
+      <a href="www.linkedin.com/in/suyash-bhawsar" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
       </a><br/>
       Linkedin
