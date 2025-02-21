@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suyash Bhawsar</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-
 <img align="right" alt="js_image" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" /> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashb97&label=Profile%20views&color=0e75b6&style=flat" alt="suyashb97" /> </p>
 
 - 🔭 I’m currently working on **Admin panel**
 - 🌱 I’m currently learning **Next.js**
-- 👨‍💻 Check out my portfolio: - 👨‍💻 Check out my portfolio: <a href="https://suyash-bhawsar-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio Website</a>
+- 👨‍💻 Check out my portfolio: - <a href="https://suyash-bhawsar-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio Website</a>
 - 👯️‍♂️ Reach me at: **suyashbhawsar7@gmail.com**
-
 ---
-
 <h3 align="left">Connect with me:</h3>
 <table>
  <tr>
@@ -34,15 +30,9 @@
       Indore, Madhya Pradesh
     </td>
   </tr>
-
 </table>
-
-
-
 ---
-
 <h3>Languages, Tools & Skills:</h3>
-
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tr>
     <td align="center" width="100"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"></a></td>
@@ -79,16 +69,11 @@
     <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /> API testing, debugging, and request automation.</td>
   </tr>
 </table>
-
-
 ---
-
 <h3 align="left">GitHub Stats:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashb97&show_icons=true&locale=en&layout=compact&langs_count=6&hide=css,scss&theme=tokyonight" alt="Top Languages" />
 </p>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=suyashb97&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
