@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Admin panel**
 - 🌱 I’m currently learning **Next.js**
-- 👨‍💻 Check out my portfolio: [Portfolio Website](https://suyash-bhawsar-portfolio.netlify.app/)
+- 👨‍💻 Check out my portfolio: <a href="https://suyash-bhawsar-portfolio.netlify.app/" target="_blank">Portfolio Website</a>
 - 👯️‍♂️ Reach me at: **suyashbhawsar7@gmail.com**
 
 ---
