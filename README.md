@@ -16,7 +16,7 @@
 <table>
  <tr>
     <td align="center" width="150">
-      <a href="www.linkedin.com/in/suyash-bhawsar" target="_blank">
+      <a href="https://www.linkedin.com/in/suyash-bhawsar" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
       </a><br/>
       Linkedin
