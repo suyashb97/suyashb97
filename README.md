@@ -75,5 +75,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashb97&show_icons=true&locale=en&layout=compact&langs_count=6&hide=css,scss&theme=tokyonight" alt="Top Languages" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suyashb97&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=suyashb97&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /> -->
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=suyashb97&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+
 </p>
